@@ -64,4 +64,4 @@ __Conclusion__ is that for binarized images, with noticeable edge differences, _
      - The net becomes __less sensitive__ to the specific weights of __neurons__ and is more capable of better generalization and __less likely to overfit__ to the train data. 
      - The __optimal dropout value in Conv layers is 0.2__, and if you want to implement it in the __dense layers, its optimal value is 0.5__.
 
-
+[Jupyter Notebook](./Object_identification_using_CNN.ipynb)
